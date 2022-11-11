@@ -1,0 +1,33 @@
+                                                             WEB DEVELPOMENT
+                                                           1.HTML
+                                                           2.CSS
+                                                           3.JAVA SCRIPT
+   1.HTML
+*Used to develop web pages
+*develop your own website
+   
+                         HTML INTRODUCTION (HYPER TEXT MARKUP LANGUAGE) TIM BERNERS LEE
+  
+   BASIC TERMS  
+>TAG <TAG NAME></TAG NAME>   
+
+>ELEMENT  <TAG NAME>CONTENT<TAG NAME>
+
+
+
+    ELEMENTS:
+<P></P>,<br>,<pre></pre>,<head></head>,<body></body>,<h1></h1>,<hr>
+   
+
+    SPECIALS ELEMENTS:
+   .<b>                     .<q>
+   .<strong>
+   .<i>
+   .<del>
+   .<sub>
+   .<sup>
+   .<i>
+   .<em>
+   .<small>
+   .<ins>
+   .<mark>
